@@ -35,5 +35,5 @@
 <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://res.coinpaper.com/coinpaper/f_webp,c_limit,w_3840,q_auto:good/solana_sol_logo_32f9962968.png" alt="solana" width="20" height="20"/> </a>**Solana**(SOL): ```Bu4qVEYghvNHUYgJjMUAYw7Q6kSKxH6KfQmZDdpbqjhE``` <br>
 <a href="https://www.getmonero.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/monero-logo-4EB9795194-seeklogo.com.png" alt="monero" width="20" height="20"/> </a>**Monero**(XMR): ```45DDDVpRxHMRRpuDFN3Qbr9s1dEy1wK9NS8ch97k4zk4CCUsMsLoAFUMNFEou9hPEEUTGs9DTg59dM1R4oH84bF2K1EeSEN```
 <p align = "center">
-	<img src = "https://raw.githubusercontent.com/WaWeNoel/WaWeNoel/main/snake.svg" alt = "Snake Game"/>
+	<img src = "https://raw.githubusercontent.com/WaWeNoel/WaWeNoel/main/assets/snake.svg" alt = "Snake Game"/>
 </p>
