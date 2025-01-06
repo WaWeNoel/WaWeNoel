@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a name="logo" href="https://t.me/wawenoel"><img src="https://files.catbox.moe/xeejxa.png" alt="Hi 👋, I'm wawenoel" width="200"></a>
+  <a name="logo" href="https://t.me/wawenoel"><img src="https://files.catbox.moe/ss3x8c.png" alt="Hi 👋, I'm wawenoel" width="200"></a>
   <br>
   Hi 👋, I'm wawenoel
 </h1></p>
